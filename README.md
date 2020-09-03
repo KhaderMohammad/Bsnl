@@ -13,3 +13,5 @@ octoups buuild API
 octopus rebuils API
 
 octopus build push 2 command
+
+octopus package version command
